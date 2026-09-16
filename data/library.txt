@@ -1,0 +1,4 @@
+BOOKS
+B001|Java Programming|James Gosling|false|null|null|null
+MEMBERS
+STUDENT|S001|Neha|neha@gmail.com
